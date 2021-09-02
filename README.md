@@ -37,3 +37,9 @@ Here we have P (Sunny |Yes) = 3/9 = 0.33, P(Sunny) = 5/14 = 0.36, P( Yes)= 9/14 
 Now, P (Yes | Sunny) = 0.33 * 0.64 / 0.36 = 0.60, which has higher probability.
 
 Naive Bayes uses a similar method to predict the probability of different class based on various attributes. This algorithm is mostly used in text classification and with problems having multiple classes.
+
+# Reference
+
+* https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/
+* https://www.geeksforgeeks.org/naive-bayes-classifiers/
+* https://towardsdatascience.com/naive-bayes-classifier-81d512f50a7c
