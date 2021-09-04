@@ -5,6 +5,10 @@
 * MODEL USED : Naive Bayes Classifier
 * ACCURACY OF MODEL ON TEST DATA : 0.9850877192982456
 
+# My YouTube where I explain the code 
+
+[![Email-Spam-Detection-using-ML](https://img.youtube.com/vi/Mz8OuK3Qf3I/0.jpg)](https://www.youtube.com/watch?v=Mz8OuK3Qf3I)
+
 # What is Naive Bayes Classifier ?
 Naive Bayes classifiers are a collection of classification algorithms based on Bayes’ Theorem. It is not a single algorithm but a family of algorithms where all of them share a common principle, i.e. every pair of features being classified is independent of each other. They are fast and easy to implement but their biggest disadvantage is that the requirement of predictors to be independent. In most of the real life cases, the predictors are dependent, this hinders the performance of the classifier. 
 
