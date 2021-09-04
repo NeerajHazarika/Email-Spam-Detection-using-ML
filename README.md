@@ -5,7 +5,7 @@
 * MODEL USED : Naive Bayes Classifier
 * ACCURACY OF MODEL ON TEST DATA : 0.9850877192982456
 
-# My YouTube where I explain the code 
+# My YouTube video where I explain the code 
 
 [![Email-Spam-Detection-using-ML](https://img.youtube.com/vi/Mz8OuK3Qf3I/0.jpg)](https://www.youtube.com/watch?v=Mz8OuK3Qf3I)
 
